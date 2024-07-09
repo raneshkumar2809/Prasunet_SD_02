@@ -36,4 +36,4 @@ You can download the /dist/main.exe file and run it to use the Guessing Game
 - `main.py`: Contains the main application code for the guessing game.
 
   
-![temperature_convertor](https://github.com/raneshkumar2809/Prasunet_SD_02/blob/main/number_guessing.png)
+![guessing_game](https://github.com/raneshkumar2809/Prasunet_SD_02/blob/main/number_guessing.png)
